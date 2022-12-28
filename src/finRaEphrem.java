@@ -2,7 +2,7 @@ package Ephrem;
 
 import java.util.ArrayList;
 
-public class finRa {
+public class finRaEphrem {
     public static void main(String[] args) {
         finRa();
     }

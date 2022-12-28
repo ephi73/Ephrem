@@ -2,7 +2,7 @@ package Ephrem;
 import java.lang.Math;
 import java.util.Scanner;
 
-public class withOutDivision {
+public class withOutDivisionEphrem {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         int numb1 = input.nextInt();
